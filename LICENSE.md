@@ -1,4 +1,4 @@
-# 
+# 开源 Audacity 工具 Mac OS版 | 独家 Audacity 工具 PC Windows版。集成 效果库 和 宏录制，跨平台性能最大化。
 
 
 
